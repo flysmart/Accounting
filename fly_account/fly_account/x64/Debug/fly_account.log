@@ -1,4 +1,0 @@
-﻿  operations.cpp
-F:\学习\3c++test\实战项目\fly_account\fly_account\operations.cpp(112,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
-F:\学习\3c++test\实战项目\fly_account\fly_account\operations.cpp(133,17): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
-  fly_account.vcxproj -> F:\学习\3c++test\实战项目\fly_account\x64\Debug\fly_account.exe
